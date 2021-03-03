@@ -1,8 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Youngju | Blog
 pagination:
   enabled: true
 ---
-
