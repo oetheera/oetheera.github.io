@@ -12,5 +12,4 @@ gem "sprockets", "~> 3.7"
 gem "autoprefixer-rails"
 gem "jemoji"
 
-
 gemspec
