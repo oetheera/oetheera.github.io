@@ -1,5 +1,5 @@
 ---
 layout: home
 home_text: UX Design and Writing
-title: Youngju | UX Design & Writing
+title: Youngju | Technical & UX Writing
 ---

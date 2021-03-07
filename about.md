@@ -7,6 +7,7 @@ permalink: /about/
 ## Technical & UX Writing | Learner
 
 I majored in **Journalism & communication**, but recently I'm learning overall **UX**,
+
 especially **writing, design and publishing**.
 
 [github](https://github.com/oetheera).
