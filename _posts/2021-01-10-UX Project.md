@@ -5,4 +5,6 @@ title: Project 1 _ Well defined
 categories: [UX]
 ---
 
-### What are options, futures and stocks?
+### 디지털 리터러시 교육_쉽게알기
+
+UX와 개발을 공부하는 학생들로 구성된 소모임에서 진행중인 프로젝트입니다. 정보소외계층을 대상으로 검색 엔진, 동영상 플랫폼 등의 맞춤형 튜토리얼을 제공합니다.
