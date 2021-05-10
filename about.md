@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Service Planning | Learner
 
-I majored in **Journalism & communication**, but recently I'm learning overall **Sercie Planning**.
+I majored in **Journalism & communication**, but recently I'm learning overall **Service Planning**.
 
 [github](https://github.com/oetheera).
 
