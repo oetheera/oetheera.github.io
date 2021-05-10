@@ -1,5 +1,5 @@
 ---
 layout: categories
 permalink: /categories/
-title: UX
+title: Project Planning
 ---

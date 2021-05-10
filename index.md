@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Technical & UX Writing
-title: Youngju | Technical & UX Writing
+home_text: Service Planning
+title: Youngju | Service Planning
 ---

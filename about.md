@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Technical & UX Writing | Learner
+## Service Planning | Learner
 
-I majored in **Journalism & communication**, but recently I'm learning overall **UX**,
-
-especially **writing, design and publishing**.
+I majored in **Journalism & communication**, but recently I'm learning overall **Sercie Planning**.
 
 [github](https://github.com/oetheera).
 

@@ -2,7 +2,7 @@
 layout: post
 comments: flase
 title: Promotion 1
-categories: [UI]
+categories: [UXUI]
 ---
 
 ### Tamburins_Promotion page_Redesign

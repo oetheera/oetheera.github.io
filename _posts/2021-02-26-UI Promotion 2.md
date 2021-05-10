@@ -2,7 +2,7 @@
 layout: post
 comments: flase
 title: Promotion 2
-categories: [UI]
+categories: [UXUI]
 ---
 
 ### Dunkin_Promotion page_Redesign
