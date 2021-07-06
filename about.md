@@ -11,6 +11,7 @@ permalink: /about/
 * UX/UI에 대한 이해
 * Tech에 대한 이해
 * 서비스 기획, 마케팅에 대한 이해
+자세한 자료는 [Blog](/blog/)에서 확인하세요!
 
 ### Professional Experience
 * 카카오 엔터프라이즈 Technical Writing 인턴 (2021.03~2021.06)
