@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 ## Service Planner | Learner
-Youngju Oh
 
 ### HighLight
 소프트웨어 산업 문/이과적 스킬에 대한 복합적 이해를 바탕으로 서비스 기획과 운영에 관심이 많습니다.
